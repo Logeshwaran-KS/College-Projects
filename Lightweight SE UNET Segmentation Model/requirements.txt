@@ -1,0 +1,5 @@
+matplotlib
+scikit-learn
+keras
+tensorflow
+numpy
